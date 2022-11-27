@@ -1,0 +1,637 @@
+{
+  "monstruos": [
+    {
+      "Nombre": "Anjanath",
+      "Especie": "Wyvern Brutal",
+      "Elementos": "Fuego",
+      "Estados": "Plaga de Fuego",
+      "Debil": [
+        "Agua",
+        "Hielo",
+        "Rayo"
+      ]
+    },
+    {
+      "nombre": "Anjanath fulgureo",
+      "Especie": "Wyvern Brutal",
+      "Elementos": "Rayo",
+      "Estados": "Plaga de rayo",
+      "Debil": [
+        "Hielo",
+        "Agua"
+      ]
+    },
+    {
+      "nombre": "Banbaro",
+      "Especie": "Wyvern Brutal",
+      "Elementos": "Hielo",
+      "Estados": "Plaga de Hielo",
+      "Debil": [
+        "draco",
+        "Plaga de nitro",
+        "Aturdido"
+      ]
+    },
+    {
+      "nombre": "Barioth",
+      "Especie": "Wyvern Volador",
+      "Elementos": "Hielo",
+      "Estados": "Plaga de Hielo",
+      "Debil": [
+        "Fuego",
+        "Rayo"
+      ]
+    },
+    {
+      "nombre": "Barioth Cynodon",
+      "Especie": "Wyvern Volador",
+      "Elementos": "Hielo",
+      "Estados": "Plaga de Hielo",
+      "Debil": [
+        "Fuego",
+        "Rayo"
+      ]
+    },
+    {
+      "nombre": "Barroth",
+      "Especie": "Wyvern Bruto",
+      "Elementos": "Agua",
+      "Estados": [
+        "Enlodado",
+        "Plaga de Agua"
+      ],
+      "Debil": [
+        "Agua(con barro)",
+        "Fuego(sin barro)",
+        "Hielo"
+      ]
+    },
+    {
+      "nombre": "Bazelgeuse",
+      "Especie": "Wyvern Volador",
+      "Elementos": "Fuego",
+      "Estados": [
+        "Plaga de fuego",
+        "Plaga de nitro(solo a otros monstruos)"
+      ],
+      "Debil": [
+        "rayo",
+        "Hielo",
+        "Draco"
+      ]
+    },
+    {
+      "nombre": "Bazelgeuse Magma",
+      "Especie": "Wyvern Volador",
+      "Elementos": "Fuego",
+      "Estados": "Plaga de fuego",
+      "Debil": [
+        "rayo",
+        "Hielo",
+        "Draco"
+      ]
+    },
+    {
+      "nombre": "Beotodus",
+      "Especie": "Wyvern Nadador",
+      "Elementos": "Hielo",
+      "Estados": "Plaga de hielo",
+      "Debil": [
+        "Fuego",
+        "Plaga de nitro"
+      ]
+    },
+    {
+      "nombre": "Brachydios",
+      "Especie": "Wyvern Brutal",
+      "Elementos": "Ninguno",
+      "Estados": "Plaga de nitro",
+      "Debil": [
+        "Agua",
+        "Hielo"
+      ]
+    },
+    {
+      "nombre": "Brachydios Colérico",
+      "Especie": "Wyvern Brutal",
+      "Elementos": "Ninguno",
+      "Estados": [
+        "Plaga de fuego",
+        "Plaga de nito"
+      ],
+      "Debil": [
+        "Hielo",
+        "Agua"
+      ]
+    },
+    {
+      "nombre": "Deviljho",
+      "Especie": "Wyvern Violento",
+      "Elementos": "Draco",
+      "Estados": [
+        "Plaga de draco",
+        "Defensa baja",
+        "Defensa muy baja",
+        "Plaga de agua(en charcos)",
+        "Plaga de hielo(en zonas heladas)",
+        "plaga de fuego(en zonas volcanicas)"
+      ],
+      "Debil": [
+        "Rayo",
+        "Draco"
+      ]
+    },
+    {
+      "nombre": "Deviljho salvaje",
+      "Especie": "Wyvern bruto",
+      "Elementos": "Draco",
+      "Estados": [
+        "Defensa baja",
+        "Plaga de draco",
+        "Plaga de agua(en charcos)",
+        "Plaga de hielo(en zonas heladas)",
+        "plaga de fuego(en zonas volcanicas)"
+      ],
+      "Debil": [
+        "rayo"
+      ]
+    },
+    {
+      "nombre": "Diablos",
+      "Especie": "Wyvern Volador",
+      "Elementos": "Ninguro",
+      "Estados": "Ninguno",
+      "Debil": [
+        "Hielo",
+        "Agua",
+        "Draco"
+      ]
+    },
+    {
+      "nombre": "Diablos Negra",
+      "Especie": "Wyvern Volador",
+      "Elementos": "Ninguno",
+      "Estados": "Aturdido",
+      "Debil": [
+        "Hielo",
+        "Agua",
+        "Draco"
+      ]
+    },
+    {
+      "nombre": "Dodogama",
+      "Especie": "Wyvern de Colmillos",
+      "Elementos": "Ninguno",
+      "Estados": "Plaga de nitro",
+      "Debil": [
+        "Rayo",
+        "Agua",
+        "Hielo"
+      ]
+    },
+    {
+      "nombre": "Glavenus",
+      "Especie": "Wyvern Brutal",
+      "Elementos": "Fuego",
+      "Estados": "Plaga de fuego",
+      "Debil": [
+        "Agua",
+        "Draco"
+      ]
+    },
+    {
+      "nombre": "Glavenus Acídico",
+      "Especie": "Wyvern Brutal",
+      "Elementos": "Ninguno",
+      "Estados": "Defensa baja",
+      "Debil": [
+        "Fuego",
+        "Rayo"
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    },
+    {
+      "nombre": "",
+      "Especie": "",
+      "Elementos": "",
+      "Estados": "",
+      "Debil": [
+      ]
+    }
+  ]
+}
